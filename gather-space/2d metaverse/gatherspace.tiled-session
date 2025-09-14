@@ -1,0 +1,102 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "gatherspace/v1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.75
+        },
+        "#Roguelike": {
+            "scaleInDock": 2
+        },
+        "Compressed/kenney_roguelike-rpg-pack/Map/new.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "Compressed/kenney_roguelike-rpg-pack/Map/sample_map.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 578,
+                "y": 795
+            }
+        },
+        "Compressed/kenney_roguelike-rpg-pack/Map/sample_map.tmx#Roguelike": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Preview.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        },
+        "gatherspace/Preview.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gatherspace/tiles1.png": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gatherspace/tiles1.tsx": {
+            "scaleInDock": 1
+        },
+        "gatherspace/v1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 516,
+                "y": 393
+            }
+        },
+        "gatherspace/v1.tmx#Roguelike": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "gatherspace/v1.tmx#tiles1": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "gatherspace/v1.tmx#tiles2": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiles.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        }
+    },
+    "last.exportedFilePath": "C:/Users/hp/Downloads/gatherspace",
+    "last.externalTilesetPath": "C:/Users/hp/Downloads/gatherspace",
+    "last.imagePath": "C:/Users/hp/Downloads/Compressed/kenney_roguelike-rpg-pack",
+    "map.height": 6,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 6,
+    "openFiles": [
+        "gatherspace/v1.tmx"
+    ],
+    "project": "gatherspace.tiled-project",
+    "recentFiles": [
+        "gatherspace/v1.tmx",
+        "gatherspace/tiles1.png",
+        "Compressed/kenney_roguelike-rpg-pack/Map/sample_map.tmx",
+        "gatherspace/Preview.tsx",
+        "tiles.tsx",
+        "Compressed/kenney_roguelike-rpg-pack/Map/new.tsx",
+        "Preview.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
